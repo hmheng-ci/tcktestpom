@@ -1,10 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>hmhtest.com</groupId>
   <artifactId>tcktestpom</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>jar</packaging>
 
   <name>tcktestpom</name>
@@ -17,7 +16,8 @@
 	<scm>
        <connection>scm:git:https://github.com/hmheng-ci/tcktestpom.git</connection>
        <developerConnection>scm:git:https://github.com/hmheng-ci/tcktestpom.git</developerConnection>
-   </scm>
+     <tag>tcktestpom-1.0</tag>
+  </scm>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
