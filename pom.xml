@@ -15,8 +15,8 @@
 	 <project.scm.id>hmh-github</project.scm.id>
   </properties>
 	<scm>
-       <connection>scm:git:https://github.com/hmhco/thinkcentral.git</connection>
-       <developerConnection>scm:git:https://github.com/hmhco/thinkcentral.git</developerConnection>
+       <connection>scm:git:https://github.com/hmheng-ci/tcktestpom.git</connection>
+       <developerConnection>scm:git:https://github.com/hmheng-ci/tcktestpom.git</developerConnection>
    </scm>
   <dependencies>
     <dependency>
