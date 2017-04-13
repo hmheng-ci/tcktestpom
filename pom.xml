@@ -3,7 +3,7 @@
 
   <groupId>hmhtest.com</groupId>
   <artifactId>tcktestpom</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
   <packaging>jar</packaging>
 
   <name>tcktestpom</name>
@@ -16,7 +16,7 @@
 	<scm>
        <connection>scm:git:https://github.com/hmheng-ci/tcktestpom.git</connection>
        <developerConnection>scm:git:https://github.com/hmheng-ci/tcktestpom.git</developerConnection>
-     <tag>HEAD</tag>
+     <tag>tcktestpom-1.1</tag>
   </scm>
   <dependencies>
     <dependency>
